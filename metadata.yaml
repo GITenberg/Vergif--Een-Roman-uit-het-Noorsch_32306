@@ -1,0 +1,37 @@
+_repo: Vergif--Een-Roman-uit-het-Noorsch_32306
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Meijboom, Margaretha
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '33842'
+    url: http://www.gutenberg.org/2009/agents/33842
+covers:
+- cover_type: archival
+  image_path: 32306-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kielland, Alexander Lange
+    aliases:
+    - Kielland, Aleksander L.
+    - Kjelland, Alexander Lange
+    birthdate: 1849
+    deathdate: 1906
+    gutenberg_agent_id: '1776'
+    url: http://www.gutenberg.org/2009/agents/1776
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Kielland
+description: ''
+gutenberg_issued: '2010-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32306'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian fiction -- Translations into Dutch'
+- !lcc 'PT'
+title: 'Vergif: Een Roman uit het Noorsch'
+url: http://www.gutenberg.org/ebooks/32306
