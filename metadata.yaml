@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1776
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Kielland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32306#Vergif--Een-Roman-uit-het-Noorsch
 gutenberg_issued: '2010-05-09'
 gutenberg_type: Text
 identifiers:
